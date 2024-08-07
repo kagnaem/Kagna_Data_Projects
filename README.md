@@ -5,3 +5,5 @@ This project on Github is another version of my data analysis using Python on Gi
 The dataset in CSV format used here is the final product of the combination between the dataset from the Stats NA and External sources: OECD and IMF
 
 A full project paper can be found in my repository here.
+
+![image](https://github.com/user-attachments/assets/d431f237-d71d-4c0d-8f7e-11e378496936)
